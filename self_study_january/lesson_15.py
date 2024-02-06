@@ -73,4 +73,4 @@ def fibonacci(num):
 number=int(input('Write your number: '))
 print(fibonacci(number))
 
-print("hello")
+print("")
