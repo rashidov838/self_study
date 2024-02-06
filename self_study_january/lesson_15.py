@@ -72,3 +72,5 @@ def fibonacci(num):
     return cur
 number=int(input('Write your number: '))
 print(fibonacci(number))
+
+print("hello")
